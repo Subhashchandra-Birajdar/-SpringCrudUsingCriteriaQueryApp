@@ -1,5 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vineet221713.io)
-<h1 align="center">Hi 👋, I'm Subhash Birajdar Kumar Singh</h1>
+<h1 align="center">Hi 👋, I'm Subhash Birajdar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -34,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhashchandra-Birajdar&" alt="Subhashchandra-Birajdar" /></p>
 
-<a href="https://github.com/nntivari11111(may be here use Subhashchandra-Birajdar)/github-readme-activity-graph"><img alt="Subhash Birajdar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Subhashchandra-Birajdar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/nntivari11111/github-readme-activity-graph"><img alt="Subhash Birajdar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Subhashchandra-Birajdar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
