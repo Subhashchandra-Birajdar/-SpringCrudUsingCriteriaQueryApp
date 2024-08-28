@@ -48,8 +48,8 @@
 </p>
 
 
-<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
-
+<!-- <a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a> -->
+<a href="https://rextester.com/l/python3_online_compiler" rel="nofollow"><img src="/warmice71/warmice71/raw/main/assets/colored.png" width="100%" alt="python3_online_compiler" style="max-width: 100%;"></a>
 
 
 <p align="center">
