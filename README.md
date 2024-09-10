@@ -7,7 +7,7 @@
 
 - 🔭 I’Complete Clone of E-commerce WebSite 
 
-- 🌱 I’m currently learning **DataStructure,Microservices,kafka,AWS,Spring-Boot,MySQL,Hybernet**
+- 🌱 I’m currently learning **Data Structure, Microservices, kafka, AWS, Spring-Boot, MySQL,Hibernet**
 
 - 👯 I’Complete individual so may projects
 
@@ -47,7 +47,6 @@
     <a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Subhashchandra-Birajdar&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
 
-<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
 <p align="center">
 <!-- a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Subhashchandra-Birajdar}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>-->
