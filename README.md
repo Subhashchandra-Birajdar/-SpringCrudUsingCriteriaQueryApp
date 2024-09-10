@@ -1,6 +1,6 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vineet221713.io)
 <h1 align="center">Hi 👋, I'm Subhash Birajdar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vineet221713.io)
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
@@ -40,7 +40,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashchandra-Birajdar&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
-<!-- activity graph heroku-app end -->
+<!-- activity graph heroku-app end  PrinceGoblinTech-->
 
 <p align="center">
 <a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
@@ -49,7 +49,7 @@
 
 
 <p align="center">
-<!-- a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Subhashchandra-Birajdar}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>-->
+<!-- a href="https://gist.github.com/Subhashchandra-Birajdar"><img src="https://profile-counter.glitch.me/{Subhashchandra-Birajdar}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>-->
     <img src="https://visitcount.itsvg.in/api?id=Subhashchandra-Birajdar&icon=10&color=0" />
 </p>
 
