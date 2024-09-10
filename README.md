@@ -51,7 +51,7 @@
 
 <p align="center">
 <!-- a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Subhashchandra-Birajdar}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>-->
-    <img src="https://visitcount.itsvg.in/api?id=ujjwalpaul005&icon=10&color=0" />
+    <img src="https://visitcount.itsvg.in/api?id=Subhashchandra-Birajdar&icon=10&color=0" />
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
